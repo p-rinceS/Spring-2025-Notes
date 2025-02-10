@@ -1,0 +1,1 @@
+defines which strings are valid queries in the language.

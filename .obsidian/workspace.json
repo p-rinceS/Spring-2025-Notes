@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "c13bba431d62bba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc9a67ec9d2e4222",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fbe487e7159fa22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 480/Lecture 3/Relational Algebra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Relational Algebra"
+            }
+          },
+          {
+            "id": "a595661201b6e581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 418/Lecture 4/Temporality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Temporality"
+            }
+          },
+          {
+            "id": "84a48b2429c6c569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 478/Lecture 9/Tasks & backstack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tasks & backstack"
+            }
+          },
+          {
+            "id": "8af76797ef1b4012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 418/Granularity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Granularity"
+            }
+          },
+          {
+            "id": "0016328c03f74df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 478/Lecture 9/Android UI Element.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Android UI Element"
+            }
+          },
+          {
+            "id": "cbee298a4c40c16a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "views.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "views"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03bd311aa09550c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1014f784b258ee9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f1de078a23d1fd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8d2930642a421727",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "69150a27420dcdf6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2e38c8e3a05afadb",
+    "type": "split",
+    "children": [
+      {
+        "id": "883ced49331740c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "441d11fea5648e95",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS 487/Week 9/Free Chunks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Free Chunks"
+            }
+          },
+          {
+            "id": "1642f51585b43c11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS 487/Week 9/Free Chunks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Free Chunks"
+            }
+          },
+          {
+            "id": "b6f1fc42112ad795",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d6caa789c5af7e56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "views.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of views"
+            }
+          },
+          {
+            "id": "b782ca5f09ae45d3",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          },
+          {
+            "id": "233fc8f74f457b74",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 536.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cbee298a4c40c16a",
+  "lastOpenFiles": [
+    "composite pattern.md",
+    "Excalidraw/Drawing 2025-02-10 13.14.29.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-10 13.14.28.excalidraw.md",
+    "Excalidraw",
+    "views.md",
+    "CS 478/Lecture 9/Android UI Element.md",
+    "CS 418/Granularity.md",
+    "CS 478/Lecture 9/task.md",
+    "CS 478/Lecture 9/Tasks & backstack.md",
+    "CS 478/Lecture 9/Explicit vs Implicit Intents.md",
+    "CS 478/Lecture 9",
+    "CS 418/Lecture 4/Lecture 4.md",
+    "CS 418/Lecture 4/Temporality.md",
+    "CS 480/Lecture 3/Relational Algebra.md",
+    "Untitled",
+    "CS 418/Lecture 4",
+    "CS 480/Lecture 3/Formal Relational Languages.md",
+    "CS 480/Lecture 3/Formal Query Language.md",
+    "CS 480/Lecture 3/semantics.md",
+    "CS 480/Lecture 3/syntax.md",
+    "CS 478/Lecture 3/Android Studio.md",
+    "CS 480/Lecture 3",
+    "CS 474/Untitled.md",
+    "CS 474/Lecture",
+    "CS 474",
+    "CS 478/Lecture 3/Android Debugging Bridge.md",
+    "CS 418/Lecture 3/Data Wrangling.md",
+    "CS 478/Lecture 3",
+    "CS 418/Lecture 3/Data Acquisition.md",
+    "CS 418/Lecture 3/Data Formats.md",
+    "CS 418/Lecture 3/CSV/TSV.md",
+    "CS 418/Lecture 3/JSON.md",
+    "CS 454/Lecture 2/Mutual Exclusion.md",
+    "CS 418/Lecture 3/CSV",
+    "CS 418/Lecture 3/API.md",
+    "CS 418/Lecture 3",
+    "CS 478/Lecture 2/Pasted image 20250122132055.png",
+    "Untitled.canvas",
+    "Fall 2024 Semester/CS 487/Week 2/Pasted image 20240903160425.png"
+  ]
+}
