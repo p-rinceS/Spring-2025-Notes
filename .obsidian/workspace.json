@@ -81,14 +81,14 @@
             "id": "cbee298a4c40c16a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "views.md",
-                "mode": "source",
-                "source": false
+                "aFile": "views.md",
+                "bFile": "views.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "views"
+              "icon": "diff",
+              "title": "Diff: views"
             }
           }
         ],
@@ -211,13 +211,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "views.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of views"
+              "title": "Outline"
             }
           },
           {
@@ -262,11 +261,11 @@
   },
   "active": "cbee298a4c40c16a",
   "lastOpenFiles": [
+    "views.md",
     "composite pattern.md",
     "Excalidraw/Drawing 2025-02-10 13.14.29.excalidraw.md",
     "Excalidraw/Drawing 2025-02-10 13.14.28.excalidraw.md",
     "Excalidraw",
-    "views.md",
     "CS 478/Lecture 9/Android UI Element.md",
     "CS 418/Granularity.md",
     "CS 478/Lecture 9/task.md",
