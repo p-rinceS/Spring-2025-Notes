@@ -4,67 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc9a67ec9d2e4222",
+        "id": "e386ea123df62078",
         "type": "tabs",
         "children": [
           {
-            "id": "3fbe487e7159fa22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 480/Lecture 3/Relational Algebra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Relational Algebra"
-            }
-          },
-          {
-            "id": "a595661201b6e581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 418/Lecture 4/Temporality.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Temporality"
-            }
-          },
-          {
-            "id": "84a48b2429c6c569",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 478/Lecture 9/Tasks & backstack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tasks & backstack"
-            }
-          },
-          {
-            "id": "8af76797ef1b4012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 418/Granularity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Granularity"
-            }
-          },
-          {
-            "id": "0016328c03f74df5",
+            "id": "e185407f234bb285",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Android UI Element"
             }
-          },
-          {
-            "id": "cbee298a4c40c16a",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "views.md",
-                "bFile": "views.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: views"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CS 478/Lecture 9/Android UI Element.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Android UI Element"
             }
           },
           {
@@ -259,8 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbee298a4c40c16a",
+  "active": "e185407f234bb285",
   "lastOpenFiles": [
+    "CS 478/Lecture 9/Explicit vs Implicit Intents.md",
+    "CS 478/Lecture 9/Tasks & backstack.md",
+    "CS 478/Lecture 9/task.md",
     "views.md",
     "composite pattern.md",
     "Excalidraw/Drawing 2025-02-10 13.14.29.excalidraw.md",
@@ -268,9 +201,6 @@
     "Excalidraw",
     "CS 478/Lecture 9/Android UI Element.md",
     "CS 418/Granularity.md",
-    "CS 478/Lecture 9/task.md",
-    "CS 478/Lecture 9/Tasks & backstack.md",
-    "CS 478/Lecture 9/Explicit vs Implicit Intents.md",
     "CS 478/Lecture 9",
     "CS 418/Lecture 4/Lecture 4.md",
     "CS 418/Lecture 4/Temporality.md",
