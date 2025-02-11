@@ -13,30 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 480/Lecture 9/Outer Joins.md",
+                "file": "CS 454/Lecture 8/Array Locks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outer Joins"
+              "title": "Array Locks"
             }
           },
           {
-            "id": "f70423adc76d79a3",
+            "id": "b7fcf14fa8dfa166",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 480/Lecture 9/Division.md",
+                "file": "CS 454/Lecture 8/contention.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Division"
+              "title": "contention"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 480/Lecture 9/Division.md",
+                "file": "CS 480/Lecture 9/Outer Joins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Division"
+              "title": "Outline of Outer Joins"
             }
           },
           {
@@ -175,7 +174,7 @@
             }
           },
           {
-            "id": "0b077e8951c9dfb4",
+            "id": "fd3557fe05f16baa",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -204,44 +203,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f70423adc76d79a3",
+  "active": "e185407f234bb285",
   "lastOpenFiles": [
-    "CS 480/Lecture 9/Division.md",
-    "CS 480/Lecture 9/Intersection.md",
+    "CS 454/Lecture 8/Array_Lock_IMG.png",
+    "CS 454/Lecture 8/Array Locks.md",
+    "CS 454/Lecture 8/Exponential Backoff.md",
+    "CS 454/Lecture 8/Test-and-Set instruction.md",
+    "CS 454/Lecture 8/TASLock.md",
+    "CS 454/Lecture 8/volatile.md",
+    "CS 454/Lecture 8/Spin Locks.md",
+    "CS 454/Lecture 8/lock.md",
+    "CS 454/Lecture 8/contention.md",
+    "CS 454/Lecture 8/Spinning.md",
+    "CS 454/Lecture 1/Cache Coherence.md",
+    "CS 454/Lecture 1/Threads in Java Lecture 1.md",
+    "CS 454/Lecture 1/`Thread.Join()`.md",
+    "CS 454/Lecture 1/NUMA Topology.md",
+    "CS 454/Lecture 1/Mesi Protocol.md",
+    "CS 454/Lecture 1/Hyper-Threading.md",
+    "CS 454/Lecture 8/Cache.md",
+    "CS 478/Lecture 9/views.md",
+    "Fall 2024 Semester/CS 484/Week 2/Single-Threaded.md",
     "CS 480/Lecture 9/Outer Joins.md",
+    "CS 480/Lecture 9/Division.md",
+    "CS 454/Lecture 8",
+    "CS 454/Untitled.md",
+    "Excalidraw/Drawing 2025-02-10 20.09.15.excalidraw.md",
+    "CS 480/Lecture 9/Intersection.md",
     "X - Daily Notes/DN - Template.md",
     "CS 480/Lecture 9/Untitled",
     "CS 480/Lecture 9/9_ExaliNote.md",
-    "Excalidraw/Drawing 2025-02-10 13.14.28.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-10 13.14.29.excalidraw.md",
-    "CS 474/Lecture 9/Lecture 9.md",
     "CS 480/Lecture 9",
-    "CS 474/Lecture 9/MUnit Test Cases.md",
-    "CS 474/README.md",
-    "CS 478/Lecture 9/Android UI Element.md",
     "CS 474/Lecture 9",
-    "CS 478/Lecture 9/Explicit vs Implicit Intents.md",
-    "CS 478/Lecture 9/Tasks & backstack.md",
-    "CS 478/Lecture 9/task.md",
-    "views.md",
-    "composite pattern.md",
     "Excalidraw",
-    "CS 418/Granularity.md",
     "CS 478/Lecture 9",
-    "CS 418/Lecture 4/Lecture 4.md",
-    "CS 418/Lecture 4/Temporality.md",
-    "CS 480/Lecture 3/Relational Algebra.md",
     "Untitled",
     "CS 418/Lecture 4",
-    "CS 480/Lecture 3/Formal Relational Languages.md",
-    "CS 480/Lecture 3/Formal Query Language.md",
-    "CS 480/Lecture 3/semantics.md",
-    "CS 480/Lecture 3/syntax.md",
-    "CS 478/Lecture 3/Android Studio.md",
     "CS 480/Lecture 3",
     "CS 474/Lecture",
-    "CS 474",
-    "CS 478/Lecture 3/Android Debugging Bridge.md",
     "CS 478/Lecture 2/Pasted image 20250122132055.png",
     "Untitled.canvas",
     "Fall 2024 Semester/CS 487/Week 2/Pasted image 20240903160425.png"
