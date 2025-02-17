@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 454/Lecture 9/Lock Optimization.md",
+                "file": "CS 454/Lecture 9/Backoff Lock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lock Optimization"
+              "title": "Backoff Lock"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 338.5
   },
   "right": {
     "id": "2e38c8e3a05afadb",
@@ -232,16 +232,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "233fc8f74f457b74",
+  "active": "e308802277c0ef29",
   "lastOpenFiles": [
-    "Fast Path.md",
-    "CS 454/Lecture 9/Lock Optimization.md",
-    "CS 454/Lecture 9/TAS-Lock Graph.md",
-    "CS 454/Lecture 9/Recap TAS-Lock.md",
     "CS 454/Lecture 9/starvation.md",
+    "CS 454/Lecture 9/Fast Path.md",
+    "CS 474/README.md",
+    "CS 454/Lecture 9/Abstract Class.md",
+    "CS 478/Lecture 11/Adapter.md",
+    "CS 478/Lecture 11/Adapter Design Pattern Image.png",
+    "CS 478/Lecture 11",
+    "CS 454/Lecture 9/Queue Lock (CLH).md",
+    "CS 454/Lecture 9/TAS-Lock Graph.md",
+    "CS 454/Lecture 9/Lock Optimization.md",
+    "CS 454/Lecture 9/Recap TAS-Lock.md",
     "CS 454/Lecture 9/Java Memory Model.md",
     "CS 454/Lecture 9/NUMA Machines.md",
-    "CS 454/Lecture 9/Queue Lock (CLH).md",
     "CS 454/Lecture 9/Compare And Swap.md",
     "CS 454/Lecture 8/Array Locks.md",
     "CS 454/Lecture 9/Queue Lock Implicit List.md",
@@ -250,20 +255,16 @@
     "CS 454/Lecture 1/`Thread.Join()`.md",
     "CS 454/Lecture 9",
     "CS 418/Lecture 9/DataTypes_IMG.png",
-    "Abstract Method.md",
     "CS 418/Lecture 9/Exploratory Data Analysis.md",
     "CS 418/Lecture 9/Hypothesis Testing.md",
     "CS 418/Lecture 9/Inferential Statistics.md",
     "CS 418/Lecture 9/Pasted image 20250211124615.png",
     "CS 418/Lecture 9/visualizing.md",
-    "CS 474/README.md",
     "CS 474/Lecture 10/Using a elem T in.md",
     "CS 474/Lecture 10",
     "CS 478/Lecture 10/Android text views.md",
     "CS 478/Lecture 9/views.md",
     "[Abstract.md",
-    "CS 478/Lecture 10/Views.md",
-    "[[Abstract.md",
     "CS 478/Lecture 10",
     "CS 418/Lecture 9",
     "CS 454/Lecture 8/Array_Lock_IMG.png",
@@ -272,7 +273,6 @@
     "CS 480/Lecture 9",
     "CS 474/Lecture 9",
     "Excalidraw",
-    "CS 478/Lecture 9",
     "CS 478/Lecture 2/Pasted image 20250122132055.png",
     "Untitled.canvas",
     "Fall 2024 Semester/CS 487/Week 2/Pasted image 20240903160425.png"
