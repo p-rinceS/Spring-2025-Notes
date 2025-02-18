@@ -14,3 +14,7 @@ Sidesteps incompatibilities between interfaces and classes.
 A adaptor maps the calls from an interface to a call that the Adaptee an understand so that it can understand the request.
 
 Adaptee is a given, all requests usually end up there.
+
+
+[[ArrayAdapter]]
+Simplist build-in adapter, convert array elements to strings (using java's toString() method)
