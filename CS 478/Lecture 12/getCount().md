@@ -1,0 +1,1 @@
+Returns total numer of elements in your list or grid

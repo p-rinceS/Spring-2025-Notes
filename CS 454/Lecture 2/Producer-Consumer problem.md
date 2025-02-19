@@ -5,4 +5,4 @@ A classic problem in concurrent programming that illustrates the need for synchr
 
 
 
-[[Consensus]] - there are many solutions to a problem but some are better than others
+[[CS 454/Lecture 2/Consensus]] - there are many solutions to a problem but some are better than others

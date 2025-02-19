@@ -1,0 +1,1 @@
+Creates and fills view for a given grid item
