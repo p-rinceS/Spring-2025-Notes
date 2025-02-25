@@ -1,6 +1,0 @@
-
-
-
-Shortened as RMW
-
-example: 
