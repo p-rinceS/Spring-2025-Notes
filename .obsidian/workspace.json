@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 454/Lecture 12/Invariant.md",
+                "file": "CS 418/Lecture 11/Gradient Descent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Invariant"
+              "title": "Gradient Descent"
             }
           }
         ],
@@ -234,10 +234,13 @@
   },
   "active": "9a4d926159c3239c",
   "lastOpenFiles": [
+    "CS 418/Lecture 11/ML Classification.md",
+    "CS 418/Lecture 11/Gradient Descent.md",
+    "CS 454/Lecture 12/Invariant.md",
+    "CS 418/Lecture 11",
     "CS 454/Lecture 12/linearizable.md",
     "CS 454/Lecture 12/Lists.md",
     "Excalidraw/Drawing 2025-02-25 11.58.12.excalidraw.md",
-    "CS 454/Lecture 12/Invariant.md",
     "CS 454/Lecture 10/Lecture 10.md",
     "CS 454/Lecture 12/Coarse-Grained Locking.md",
     "CS 454/Lecture 12/454 Midterm Notes.md",
@@ -264,8 +267,6 @@
     "CS 480/Lecture 11/GROUP BY.md",
     "CS 454/Lecture 11",
     "CS 480/Lecture 11/GROUPBY Restrictions.png",
-    "CS 480/Lecture 11/SQL aggregation functions.md",
-    "CS 478/Lecture 12/Intent.md",
     "CS 480/Lecture 11/SQL Where Example.png",
     "CS 480/Lecture 11/SQL Aggregation example.png",
     "CS 480/Lecture 11/Untitled",
@@ -275,7 +276,6 @@
     "CS 480/Lecture 11",
     "CS 474/Lecture 11",
     "CS 478/Lecture 12",
-    "CS 454/Lecture 10",
     "CS 478/Lecture 11/Adapter Design Pattern Image.png",
     "CS 418/Lecture 9/DataTypes_IMG.png",
     "CS 418/Lecture 9/Pasted image 20250211124615.png",
