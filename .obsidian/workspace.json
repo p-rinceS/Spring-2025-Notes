@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 454/Lecture 11/Consensus.md",
+                "file": "CS 474/Lecture 12/Property Based Tests (part 2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Consensus"
+              "title": "Property Based Tests (part 2)"
             }
           }
         ]
@@ -191,11 +191,21 @@
   },
   "active": "9b3d70be6be814b5",
   "lastOpenFiles": [
+    "CS 474/Lecture 12/String Interpolation.md",
+    "CS 474/Lecture 12/Wildcard Selector.md",
+    "CS 474/Lecture 12/Given Keyword.md",
+    "CS 474/Lecture 12/Context Parameters.md",
+    "CS 474/Lecture 12/Property Based Tests (part 2).md",
+    "CS 474/Lecture 11/Property-Based Tests.md",
+    "CS 474/Lecture 12/Midterm Topics.md",
+    "CS 474/Lecture 12",
+    "CS 478/Lecture 13/Options menu.md",
+    "CS 478/Lecture 13",
+    "CS 454/Lecture 11/Consensus.md",
     "Read-modify-Write operations.md",
     "CS 454/Lecture 11/Assignment 2.md",
     "CS 418/Lecture 10/Minimizing the Average Absolute Loss.md",
     "CS 418/Lecture 10",
-    "CS 454/Lecture 11/Consensus.md",
     "CS 454/Lecture 10/Consensus.md",
     "CS 454/Lecture 2/Consensus.md",
     "CS 480/Lecture 11/GROUP BY.md",
@@ -219,21 +229,11 @@
     "CS 480/Lecture 11/SQL Natural Join Example.png",
     "CS 480/Lecture 11/SQL Joins Example.png",
     "CS 480/Lecture 11",
-    "CS 478/Lecture 2/Application Framework Layer.md",
-    "CS 478/Lecture 2/Broadcast Receivers.md",
-    "CS 474/Lecture 11/Property-Based Tests.md",
-    "CS 474/Lecture 11/Associativity.md",
-    "CS 474/Lecture 11/Type Bounds.md",
-    "CS 478/Lecture 12/Android Menus.md",
     "CS 474/Lecture 11",
-    "CS 478/Lecture 12/Options Menus.md",
-    "CS 478/Lecture 12/Recycler View.md",
     "CS 478/Lecture 12",
     "CS 454/Lecture 10",
     "CS 480/Lecture 10",
     "CS 478/Lecture 11/Adapter Design Pattern Image.png",
-    "CS 478/Lecture 11",
-    "CS 454/Lecture 9",
     "CS 418/Lecture 9/DataTypes_IMG.png",
     "CS 418/Lecture 9/Pasted image 20250211124615.png",
     "CS 454/Lecture 8/Array_Lock_IMG.png",
