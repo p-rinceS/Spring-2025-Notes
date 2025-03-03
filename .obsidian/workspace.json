@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 418/Lecture 12/Entropy.md",
+                "file": "CS 478/Lecture 15/Transactions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entropy"
+              "title": "Transactions"
             }
           }
         ],
@@ -234,8 +234,13 @@
   },
   "active": "cf5d79e20cb4a4aa",
   "lastOpenFiles": [
-    "CS 418/Lecture 12/Decision Trees.md",
+    "CS 478/Lecture 15/Backstack.md",
+    "CS 478/Lecture 15/Transactions.md",
+    "CS 478/Lecture 14/Fragment.md",
+    "CS 478/Lecture 15/Fragment Cont'd.md",
+    "CS 478/Lecture 15",
     "CS 418/Lecture 12/Entropy.md",
+    "CS 418/Lecture 12/Decision Trees.md",
     "CS 418/Lecture 12/NP-hard.md",
     "CS 418/Lecture 12/Classification II.md",
     "CS 418/Lecture 11/Gradient Descent.md",
@@ -249,7 +254,6 @@
     "Personal Learning/Reading List/jwt explained.pdf",
     "Personal Learning/Reading List/azure kv explained.pdf",
     "CS 454/Lecture 12/Lists.md",
-    "CS 478/Lecture 14/Fragment.md",
     "CS 478/Lecture 14/Java and Fragments.md",
     "CS 478/Lecture 14/Fragment Lifecycle Diagram.png",
     "CS 478/Lecture 14/Untitled.md",
@@ -266,11 +270,7 @@
     "CS 454/Lecture 12/Fine-Grained Lock.md",
     "CS 454/Lecture 12/[[synchronization]].md",
     "CS 454/Lecture 12",
-    "CS 474/Lecture 12/Property Based Tests (part 2).md",
-    "CS 474/Lecture 12/String Interpolation.md",
-    "CS 474/Lecture 12/Wildcard Selector.md",
     "CS 474/Lecture 12",
-    "CS 478/Lecture 13",
     "CS 480/Lecture 11/GROUPBY Restrictions.png",
     "CS 480/Lecture 11/SQL Where Example.png",
     "CS 480/Lecture 11/SQL Aggregation example.png",
