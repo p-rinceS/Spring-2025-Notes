@@ -1,0 +1,1 @@
+Means that a representation is capable of encoding any possible computation that is computable.
