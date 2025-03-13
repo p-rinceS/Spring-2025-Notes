@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f9fcf42065372604",
+        "id": "2557cae476d30a25",
         "type": "tabs",
         "children": [
           {
-            "id": "d28902dd9c31edb7",
+            "id": "1050e5093740da7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 418/Lecture 13/Classification III.md",
+                "file": "CS 474/Lecture 15/Alpha Conversion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classification III"
-            }
-          },
-          {
-            "id": "fcafccd09ada5f6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beta Reduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Beta Reduction"
-            }
-          },
-          {
-            "id": "5c5ceb95e36e69ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intensional Equality.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intensional Equality"
-            }
-          },
-          {
-            "id": "d9793e5ea09c47ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extensional Equality.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Extensional Equality"
+              "title": "Alpha Conversion"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,14 +189,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcafccd09ada5f6c",
+  "active": "5f1de078a23d1fd9",
   "lastOpenFiles": [
-    "CS 474/Lecture 15/Functional Fundamentals.md",
-    "Beta Reduction.md",
+    "CS 474/Lecture 15/Intensional Equality.md",
+    "CS 474/Lecture 15/Extensional Equality.md",
+    "CS 474/Lecture 15/Alpha Conversion.md",
+    "CS 474/Lecture 15/Beta Reduction.md",
     "[[Intensional.md",
-    "Alpha Conversion.md",
-    "Intensional Equality.md",
-    "Extensional Equality.md",
+    "CS 474/Lecture 15/Functional Fundamentals.md",
     "CS 474/Lecture 15/Turing Complete.md",
     "CS 474/Lecture 13/Magnet.md",
     "CS 474/Lecture 13/Factory Method Pattern.md",
