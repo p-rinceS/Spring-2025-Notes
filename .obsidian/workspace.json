@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 454/Lecture 17/Wait-notify.md",
+                "file": "CS 418/Midterm Topics/418 Midterm Topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wait-notify"
+              "title": "418 Midterm Topics"
             }
           }
         ]
@@ -192,7 +192,10 @@
   },
   "active": "6a2a3b74f0bba48a",
   "lastOpenFiles": [
-    "CS 418/Q4 Notes.md",
+    "CS 418/Midterm Topics/Training Errors.md",
+    "CS 418/Midterm Topics/Q4 Notes.md",
+    "CS 418/Midterm Topics/418 Midterm Topics.md",
+    "CS 418/Midterm Topics",
     "CS 454/Lecture 17/Wait-notify.md",
     "CS 474/Lecture 15/Alpha Conversion.md",
     "CS 454/Lecture 17",
@@ -219,15 +222,11 @@
     "CS 442/Week 2/value stream mapping.md",
     "CS 474/Lecture 15",
     "CS 418/Lecture 13/Classification III.md",
-    "CS 474/Lecture 14/Functional Programming.md",
     "CS 418/Lecture 13",
-    "CS 474/Lecture 14/Referential Transparency.md",
     "CS 474/Lecture 14",
-    "CS 474/Lecture 13/Design Patterns.md",
     "CS 474/Lecture 13",
     "CS 478/Lecture 15",
     "CS 418/Lecture 12",
-    "CS 454/Lecture 13",
     "CS 478/Lecture 14/Fragment Lifecycle Diagram.png",
     "CS 480/Lecture 11/GROUPBY Restrictions.png",
     "CS 480/Lecture 11/SQL Where Example.png",
