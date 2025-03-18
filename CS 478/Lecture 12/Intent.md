@@ -20,3 +20,7 @@ The format of this data consists of key value pairs.
 - The data to be operated on such as a person record in contacts database, expressed as a `Uri`.
 
 
+
+##### Formal Def
+
+- An intent is a messaging object which tells us what kind of actions need to be performed. The intent's most significant use is the launching of an [[activity]]. An intent is a passive data structure holding an abstract description of an action to be performed.
