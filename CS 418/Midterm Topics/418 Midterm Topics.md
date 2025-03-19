@@ -27,3 +27,7 @@
 [[JSON]]
 [[Categorical Nominals]]
 [[Nominals]]
+
+
+[[418 Midterm Slides]]
+
