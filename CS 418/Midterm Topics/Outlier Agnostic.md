@@ -11,6 +11,6 @@ Mean however will be heavily affected by outliers. for example
 
 
 
-0,0,0,3,2,4,5,1000000
+{0,0,0,3,2,4,5,1000000}
 
 the outlier will skew the mean.
