@@ -1,4 +1,4 @@
-
+A lightweight data-interchange format
 
 Originated as a way of encapsulating JavaScript objects
 Widely used file format for nested data.

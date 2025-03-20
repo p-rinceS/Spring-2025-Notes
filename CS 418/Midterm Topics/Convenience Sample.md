@@ -1,0 +1,1 @@
+A sampling method where the sample is chosen based on ease of access.

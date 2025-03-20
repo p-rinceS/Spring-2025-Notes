@@ -1,0 +1,1 @@
+Data that represents categories without a meaningful order.

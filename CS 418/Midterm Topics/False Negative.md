@@ -1,0 +1,1 @@
+A test result that incorrectly indicates no presence of a condition.

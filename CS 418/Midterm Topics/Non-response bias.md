@@ -1,0 +1,1 @@
+Bias caused by participants not responding to a survey.
